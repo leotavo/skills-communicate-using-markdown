@@ -26,6 +26,8 @@ Você pode usá-la em:
 3. Clique em **Preview** para visualizar.  
 4. Salve com um commit claro.  
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ---
 
 ✨ **Dica:** use headers para dividir seções sempre que mudar de assunto.
+
